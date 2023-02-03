@@ -28,7 +28,7 @@ twitter_username: MrAusnadian
 github_username:  MrAusnadian
 
 # Build settings
-theme: midnight
+theme: minima
 plugins:
   - jekyll-feed
 
