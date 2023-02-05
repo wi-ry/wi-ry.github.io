@@ -9,4 +9,20 @@
   {%- if jekyll.environment == 'production' and site.google_analytics -%}
     {%- include google-analytics.html -%}
   {%- endif -%}
+  <style>
+    .site-title::before {
+      display: block;
+      width: 48px;
+      height: 48px;
+      content: '';
+      background: url('/images/logo.jpg');
+      background-size: 48px;
+      margin: 5px 0 0 -60px !important;
+      float: left;
+      line-height: 54px;
+    }
+    .site-title {
+      padding-left: 60px;
+    }
+  </style>
 </head>
