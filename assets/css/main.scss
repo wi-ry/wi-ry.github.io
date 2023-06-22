@@ -62,9 +62,11 @@
 #glitch-about {
     background-image: url('/assets/images/home/about.jpg');
     &::before {
+        animation-delay: 1s;
         background-image: url('/assets/images/home/about-red.jpg');
       }
       &::after {
+        animation-delay: 1s;
         background-image: url('/assets/images/home/about-blue.jpg');
       }
 }
@@ -72,9 +74,11 @@
 #glitch-photos {
     background-image: url('/assets/images/home/photos.jpg');
     &::before {
+        animation-delay: 2s;
         background-image: url('/assets/images/home/photos-red.jpg');
       }
       &::after {
+        animation-delay: 2s;
         background-image: url('/assets/images/home/photos-blue.jpg');
       }
 }
@@ -82,9 +86,11 @@
 #glitch-blog {
     background-image: url('/assets/images/home/blog.jpg');
     &::before {
+        animation-delay: 3s;
         background-image: url('/assets/images/home/blog-red.jpg');
       }
       &::after {
+        animation-delay: 3s;
         background-image: url('/assets/images/home/blog-blue.jpg');
       }
 }
