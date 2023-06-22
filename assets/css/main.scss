@@ -1,0 +1,107 @@
+---
+---
+
+@charset 'UTF-8';
+
+.site-title {
+    padding-left: 60px;
+
+    &::before {
+        display: block;
+        width: 48px;
+        height: 48px;
+        content: '';
+        background: url('/assets/images/logo.jpg');
+        background-size: 48px;
+        margin: 5px 0 0 -60px !important;
+        float: left;
+        line-height: 54px;
+    }
+}
+
+.glitch {
+    position: relative;
+    width: 370px;
+    height: 148px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    float: right;
+    margin: 0 0 0 1em;
+    border-radius: 25px;
+
+    &::before,
+    &::after {
+        content: "";
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        width: 370px;
+        height: 148px;
+        clip: rect(0, 0, 0, 0);
+        overflow: hidden;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+    }
+
+    &::before {
+        left: -6px;
+        animation: glitch-effect 2s 1 linear alternate-reverse;
+        opacity: 0.25;
+      }
+      &::after {
+        left: 6px;
+        animation: glitch-effect 3s 1 linear alternate-reverse;
+        opacity: 0.25;
+      }
+}
+
+
+#glitch-about {
+    background-image: url('/assets/images/home/about.jpg');
+    &::before {
+        background-image: url('/assets/images/home/about-red.jpg');
+      }
+      &::after {
+        background-image: url('/assets/images/home/about-blue.jpg');
+      }
+}
+
+#glitch-photos {
+    background-image: url('/assets/images/home/photos.jpg');
+    &::before {
+        background-image: url('/assets/images/home/photos-red.jpg');
+      }
+      &::after {
+        background-image: url('/assets/images/home/photos-blue.jpg');
+      }
+}
+
+#glitch-blog {
+    background-image: url('/assets/images/home/blog.jpg');
+    &::before {
+        background-image: url('/assets/images/home/blog-red.jpg');
+      }
+      &::after {
+        background-image: url('/assets/images/home/blog-blue.jpg');
+      }
+}
+
+$steps: 17;
+
+@keyframes glitch-effect{
+    @for $i from 0 through $steps{
+        #{percentage($i*(1/$steps))}{
+            clip: rect(random(148) + px, 370px, random(148) + px, 0);
+        }
+    }
+}
+
+hr {
+    height:1px;
+    border-width:0;
+    color:gray;
+    background-color:gray;
+}
