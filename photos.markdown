@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Will's Photos
+title: Photos
+menu: main
 permalink: /photos/
 ---
 
