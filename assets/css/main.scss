@@ -3,6 +3,11 @@
 
 @charset 'UTF-8';
 
+body {
+    background: rgb(131,58,180);
+    background: linear-gradient(45deg, rgba(131,58,180,0.05) 0%, rgba(253,29,29,0.05) 50%, rgba(252,176,69,0.05) 100%);
+}
+
 .site-title {
     padding-left: 60px;
 
