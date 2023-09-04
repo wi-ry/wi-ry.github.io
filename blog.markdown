@@ -1,8 +1,11 @@
 ---
-layout: default
+layout: page
 title: Blog
+permalink: /blog
+
 ---
-<h1>Latest Posts</h1>
+
+# Latest Posts
 
 <ul>
   {% for post in site.posts %}
