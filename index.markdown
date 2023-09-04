@@ -27,4 +27,6 @@ permalink: /
 
 #### Maybe you’re here because you want to take a look at my critically acclaimed and lauded personal blog? My latest posts are below.
 
-<br />
+<hr />
+
+{% assign post = site.posts.first %}
