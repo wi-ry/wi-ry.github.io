@@ -25,8 +25,4 @@ permalink: /
 ## Blog.
 <div class="glitch" id="glitch-blog"></div>
 
-#### Maybe you’re here because you want to take a look at my critically acclaimed and lauded personal blog? My latest posts are below.
-
-<hr />
-
-{% assign post = site.posts.first %}
+#### Maybe you’re here because you want to take a look at my critically acclaimed and lauded personal blog? My latest posts will be below once I figure out how to fix the problem with my site lol
