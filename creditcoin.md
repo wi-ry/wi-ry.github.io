@@ -11,7 +11,24 @@ If you'd like to learn more about Creditcoin, visit https://www.creditcoin.org, 
 ---
 
 Node Details:
-| Node Name | Node Address | Commission |
-| --- | --- | ---|
-| wi_ry_uno | 5FnAR3NHuwaANAKEKRHn7prTkCLdesyhnxPe6d2gaqum96QW | 5% |
-| wi_ry_dos | 5FbJ2BDjo2Edf3GYfKLErbPHdmNFRc8n88kFUBYVzsQPYRZv | 5% |
+<table>
+  <thead>
+    <tr>
+      <th>Node Name</th>
+      <th>Node Address</th>
+      <th>Commission</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>wi_ry_uno</td>
+      <td>5FnAR3NHuwaANAKEKRHn7prTkCLdesyhnxPe6d2gaqum96QW</td>
+      <td>5%</td>
+    </tr>
+    <tr>
+      <td>wi_ry_dos</td>
+      <td>5FbJ2BDjo2Edf3GYfKLErbPHdmNFRc8n88kFUBYVzsQPYRZv</td>
+      <td>5%</td>
+    </tr>
+  </tbody>
+</table>
