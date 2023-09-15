@@ -30,6 +30,11 @@ If you'd like to learn more about Creditcoin, visit [Creditcoin.org](https://www
       <td>5FbJ2BDjo2Edf3GYfKLErbPHdmNFRc8n88kFUBYVzsQPYRZv</td>
       <td>5%</td>
     </tr>
+    <tr>
+      <td>wi_ry_tres</td>
+      <td>5CzJ3wedCknprGEjMLcw6ZRmEUM6HhmjQe1zcF667srgZyxx</td>
+      <td>5%</td>
+    </tr>
   </tbody>
 </table>
 
