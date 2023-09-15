@@ -4,7 +4,9 @@ title: Creditcoin
 permalink: /creditcoin/
 ---
 
-I operate a couple of Creditcoin Validators.
+I operate a few Creditcoin Validators.
+
+I also manage a GitHub repo with some (hopefully) helpful and interesting information about running your own Creditcoin validator, useful links and some other stuff. You can find that here: [Creditcoin-Info](https://github.com/wi-ry/Creditcoin-Info)
 
 If you'd like to learn more about Creditcoin, visit [Creditcoin.org](https://www.creditcoin.org), or join their [Discord](https://discord.com/invite/creditcoin).
 
@@ -37,9 +39,3 @@ If you'd like to learn more about Creditcoin, visit [Creditcoin.org](https://www
     </tr>
   </tbody>
 </table>
-
----
-
-## Creditcoin-Info Repository
-
-I also manage a GitHub repo with some (hopefully) helpful and interesting information about running your own Creditcoin validator, useful links and some other stuff. You can find that here: [Creditcoin-Info](https://github.com/wi-ry/Creditcoin-Info)
