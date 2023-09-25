@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   i.am.wi_ry_
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  wi-ry
+
 google_analytics: G-QXX6XQEVD8
 
 # Build settings
@@ -39,6 +39,13 @@ sass:
 
 minima:
   skin: dark
+
+twitter_username: wi_ry_
+github_username:  wi-ry
+rss: rss
+mastodon:
+ - username: wi_ry_
+   instance: mstdn.ca
 
 header_pages:
   - index.md
