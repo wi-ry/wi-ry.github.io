@@ -42,7 +42,6 @@ minima:
 
 twitter_username: wi_ry_
 github_username:  wi-ry
-rss: rss
 mastodon:
  - username: wi_ry_
    instance: mstdn.ca
