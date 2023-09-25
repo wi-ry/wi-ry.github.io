@@ -28,7 +28,7 @@ github_username:  wi-ry
 google_analytics: G-QXX6XQEVD8
 
 # Build settings
-remote_theme: dieghernan/chulapa
+remote_theme: jekyll/minima
 plugins:
   - jekyll-remote-theme
   - jekyll-feed
