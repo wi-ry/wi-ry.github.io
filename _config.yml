@@ -37,6 +37,16 @@ plugins:
 sass:
     sass_dir: assets/css
 
+minima:
+  skin: dark
+
+header_pages:
+  - index.md
+  - about.md
+  - blog.md
+  - photos.md
+  - creditcoin.md
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
