@@ -25,7 +25,7 @@ If you'd like to learn more about Creditcoin, visit [Creditcoin.org](https://www
     <tr>
       <td>wi_ry_uno</td>
       <td>5FnAR3NHuwaANAKEKRHn7prTkCLdesyhnxPe6d2gaqum96QW</td>
-      <td>5%</td>
+      <td>10%</td>
     </tr>
     <tr>
       <td>wi_ry_dos</td>
