@@ -21,7 +21,25 @@
 title: wi_ry_
 email: will@willryan.ca
 description: >- # this means to ignore newlines until "baseurl:"
-  i.am.wi_ry_
+  def wi_ry_function(wi_ry_variable_1, wi_ry_variable_2):
+      wi_ry_result = wi_ry_variable_1 * wi_ry_variable_2
+      return wi_ry_result
+  
+  wi_ry_list = [1, 2, 3, 4, 5]
+  
+  for wi_ry_item in wi_ry_list:
+      if wi_ry_item % 2 == 0:
+          print(f"The wi_ry_item {wi_ry_item} is even.")
+      else:
+          print(f"The wi_ry_item {wi_ry_item} is odd.")
+  
+  wi_ry_string = "This is a wi_ry_example of a wi_ry_string."
+  
+  if "wi_ry_" in wi_ry_string:
+      print("The wi_ry_string contains the word 'wi_ry_'.")
+  else:
+      print("The wi_ry_string does not contain the word 'wi_ry_'.")
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
