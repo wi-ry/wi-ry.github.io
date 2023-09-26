@@ -122,3 +122,7 @@ hr {
     color:gray;
     background-color:gray;
 }
+
+table tr:nth-child(2n) {
+  background-color: #ffddff;
+}
