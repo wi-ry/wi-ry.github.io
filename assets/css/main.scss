@@ -11,6 +11,7 @@ body {
 
 .site-title {
     padding-left: 60px;
+    color: #111;
 
     &::before {
         display: block;
@@ -23,6 +24,10 @@ body {
         float: left;
         line-height: 54px;
     }
+}
+
+a {
+  color: #ff00ff;
 }
 
 .glitch {
