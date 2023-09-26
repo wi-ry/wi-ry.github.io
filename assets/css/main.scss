@@ -3,6 +3,14 @@
 
 @charset 'UTF-8';
 
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Mooli', sans-serif;
+}
+
+body {
+  font-family: 'Martian Mono', monospace;
+}
+
 body {
     background: #111 linear-gradient(45deg, rgba(131,58,180,0.01) 0%, rgba(253,29,29,0.01) 50%, rgba(252,176,69,0.01) 100%);
     color: #eee;
@@ -131,5 +139,5 @@ hr {
 }
 
 table tr:nth-child(2n) {
-  background-color: #ffeeff;
+  background-color: #110011;
 }
