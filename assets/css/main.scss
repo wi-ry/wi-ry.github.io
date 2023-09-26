@@ -4,9 +4,9 @@
 @charset 'UTF-8';
 
 body {
-    background: white;
+    background: #111;
     background: linear-gradient(45deg, rgba(131,58,180,0.01) 0%, rgba(253,29,29,0.01) 50%, rgba(252,176,69,0.01) 100%);
-    color: #111;
+    color: #eee;
 }
 
 .site-title, .site-title:visited {
@@ -27,7 +27,7 @@ body {
 }
 
 .site-nav .page-link {
-  color: #111;
+  color: #eee;
 }
 
 a {
