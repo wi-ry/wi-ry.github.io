@@ -23,8 +23,8 @@ If you'd like to learn more about Creditcoin, visit [Creditcoin.org](https://www
   </thead>
   <tbody>
     <tr>
-      <td style="color="#666">wi_ry_uno</td>
-      <td style="color="#666">5FnAR3NHuwaANAKEKRHn7prTkCLdesyhnxPe6d2gaqum96QW</td>
+      <td style="color:#666">wi_ry_uno</td>
+      <td style="color:#666">5FnAR3NHuwaANAKEKRHn7prTkCLdesyhnxPe6d2gaqum96QW</td>
       <td>Inactive</td>
     </tr>
     <tr>
@@ -33,8 +33,8 @@ If you'd like to learn more about Creditcoin, visit [Creditcoin.org](https://www
       <td>5%</td>
     </tr>
     <tr>
-      <td style="color="#666">wi_ry_tres</td>
-      <td style="color="#666">5CzJ3wedCknprGEjMLcw6ZRmEUM6HhmjQe1zcF667srgZyxx</td>
+      <td style="color:#666">wi_ry_tres</td>
+      <td style="color:#666">5CzJ3wedCknprGEjMLcw6ZRmEUM6HhmjQe1zcF667srgZyxx</td>
       <td>Inactive</td>
     </tr>
   </tbody>
