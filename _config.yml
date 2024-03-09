@@ -58,11 +58,9 @@ sass:
 minima:
   skin: dark
 
-twitter_username: wi_ry_
 github_username:  wi-ry
-mastodon:
- - username: wi_ry_
-   instance: mstdn.ca
+bluesky:
+ - username: willryan.ca
 
 header_pages:
   - index.md
