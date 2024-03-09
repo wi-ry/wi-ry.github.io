@@ -59,15 +59,12 @@ minima:
   skin: dark
 
 github_username:  wi-ry
-bluesky:
- - username: willryan.ca
 
 header_pages:
   - index.md
   - about.md
   - blog.md
   - photos.md
-  - creditcoin.md
 
 # Exclude from processing.
 # The following items will not be processed, by default.
