@@ -10,11 +10,11 @@ title: Home
 permalink: /
 ---
 
-## Hello.
+## Art.
 
 <div class="glitch" id="glitch-about"></div>
 
-<p>Welcome to my website. Presumably, you’re here because you want to learn more about me. If that’s the case, my <a href="/about">about page</a> is probably a good place to start.</p>
+<p>I do some art type stuff, which you can (probably) find on my <a href="/art">art page</a>, assuming I've updated this site recently...</p>
 
 <br />
 
