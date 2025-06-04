@@ -6,10 +6,6 @@ permalink: /art/
 ---
 
 <h2>Welcome to my art page!</h2>
-<p>Each of the links below will open one of my albums on Google Photos.</p>
-
-<h3>Digital</h3>
-<p><a href="#">WIP</a></p>
 
 <h3>Watercolor</h3>
 <script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
@@ -30,4 +26,13 @@ permalink: /art/
 </div>
 
 <h3>Other</h3>
+<script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
+<div class="pa-gallery-player-widget" style="width:100%; height:480px; display:none;"
+  data-link="https://photos.app.goo.gl/GPn8AEVjBcYUBGWx9"
+  data-title="Other Art · Monday, Jun 2 📸"
+  data-description="Shared album · Tap to view!">
+  <object data="https://lh3.googleusercontent.com/pw/AP1GczPAsBvrxGQzMoqo0AXCqgGDjUnXQNVnbf8DuMeX5CJfeeVwVYHPZm92QXOncp8MLzNKYiBdW1ZrHi25fTtpVhUJqUXa816bkhfiRwCg6KIaX7JFNNRK=w1920-h1080"></object>
+</div>
+
+<h3>Digital</h3>
 <p><a href="#">WIP</a></p>
