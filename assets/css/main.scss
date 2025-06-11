@@ -150,3 +150,11 @@ hr {
 table tr:nth-child(2n) {
   background-color: #440044;
 }
+
+.site-nav .page-link {
+  margin-right: 1.5em; // Adjust as needed for more/less space
+}
+
+.site-nav .page-link:last-child {
+  margin-right: 0; // Removes extra space after the last item
+}
