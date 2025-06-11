@@ -86,7 +86,7 @@ GEM
       kramdown-parser-gfm (= 1.1.0)
       liquid (= 4.0.4)
       mercenary (~> 0.3)
-      minima (= 2.5.1)
+      minima (= 2.5.2)
       nokogiri (>= 1.16.2, < 2.0)
       rouge (= 3.30.0)
       terminal-table (~> 1.4)
