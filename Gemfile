@@ -17,3 +17,5 @@ end
 # gem "webrick" # Remove, github-pages manages this
 
 # gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
+
+gem 'faraday-retry', '~> 2.2'
