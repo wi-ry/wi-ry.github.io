@@ -14,3 +14,4 @@ Here's my current cameras:
 | Canon | Rebel XT | Older SLR, but shoots raw which I'm told is good |
 | Canon | SX50     | Good general purpose camera with 50x zoom |
 | Canon | Rebel T5 | My shiny new SLR, it has a lot of nice features and a big bag! |
+| Apple | iPhone 15 Pro | My everyday random pics camera |
