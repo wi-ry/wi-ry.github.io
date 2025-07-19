@@ -9,7 +9,7 @@ permalink: /art/
 
 <h3>Watercolor</h3>
 <script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
-<div class="pa-gallery-player-widget" style="width:100%; height:480px; display:none;"
+<div class="pa-carousel-widget" style="width:100%; height:480px; display:none;"
   data-link="https://photos.app.goo.gl/vmaRf6Jk6M4Vx7hG9"
   data-title="Watercolor Art · May 18 – Jun 4 📸"
   data-description="Shared album · Tap to view!">
@@ -27,7 +27,7 @@ permalink: /art/
 
 <h3>Other</h3>
 <script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
-<div class="pa-gallery-player-widget" style="width:100%; height:480px; display:none;"
+<div class="pa-carousel-widget" style="width:100%; height:480px; display:none;"
   data-link="https://photos.app.goo.gl/GPn8AEVjBcYUBGWx9"
   data-title="Other Art · Monday, Jun 2 📸"
   data-description="Shared album · Tap to view!">
