@@ -13,10 +13,6 @@ permalink: /art/
   data-link="https://photos.app.goo.gl/vmaRf6Jk6M4Vx7hG9"
   data-title="Watercolor Art · May 18 – Jun 4 📸"
   data-description="Shared album · Tap to view!">
-  <object data="https://lh3.googleusercontent.com/pw/AP1GczPZh6ZlbXxrRYz4poM8zjyOnBtJ69Rpul4Fi0M009XgJLQRt4NjSLQ1-VPw27-3xoLIdOfIz0bqjBrsGPrfKcSQ3AcQTJJBhb0amBnINuTwVVMJrXy9=w1920-h1080"></object>
-  <object data="https://lh3.googleusercontent.com/pw/AP1GczO36sy3p3VKksW3Q7_HSwfPjc9FfgXPIRDO6uIxsFDcEZfs2UsHiXGcYzxz_93plyt14BqQ5dqCwf36NtNizgknZHFRBMEI9rNSVy3IgMBVkOITBb41=w1920-h1080"></object>
-  <object data="https://lh3.googleusercontent.com/pw/AP1GczPmKVIZ-nU8MFtbwRatEpZ9d6AnbGTiykz6aN9foeMc8qVRC1rm9fx601wXhQyzPBzv_qfp6Te5SxXiYvgzecXBzutZJ-ml8gEmRSendNt54qxlqJH3=w1920-h1080"></object>
-  <object data="https://lh3.googleusercontent.com/pw/AP1GczOBinChh5Pq8ZjsxJWY1UBe_JvMo7k7lRzBQMUTaavfx1p2n3m2vGYfy3AwSMFpH-TVvHljgul7VhoKBV2XNl4RG47OtKQeI5T-Dhj4c9dF2pDHlE0s=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/pw/AP1GczPmGMPGQ-lNGQcqXT-zwQMoem4ZtwpuzmklxjLrW5pOkAqddXtBxNLiwfPIKqaBpgGHyjiq9cocde6jcTZwrkEHlyORDglB4DMCiaGezm1CjpL61WJl=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/pw/AP1GczOXq4t66zhvw8jBOXwVS4jPxVQqJi_RA-pc6mkcBw1mlY3KdlkDOTEI9PxAsgX9aib_zDjUx_K8jIoctYbAxW7bpz21vVnaaGZ4jE1izBi_yCJIl2BZ=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/pw/AP1GczMXEeoSqq8UquevL3fRywFYuOXA3byI8YD5REtc-SYjSqdZMnJZwiD9zF44n74KhKR9UAnqdfOcBlXReOsrzBD-2ObTRnlt_iVZR9TZ2zBbzONLa_dN=w1920-h1080"></object>
@@ -31,6 +27,10 @@ permalink: /art/
   data-link="https://photos.app.goo.gl/GPn8AEVjBcYUBGWx9"
   data-title="Pokemon Art · Monday, Jun 2 📸"
   data-description="Shared album · Tap to view!">
+  <object data="https://lh3.googleusercontent.com/pw/AP1GczPZh6ZlbXxrRYz4poM8zjyOnBtJ69Rpul4Fi0M009XgJLQRt4NjSLQ1-VPw27-3xoLIdOfIz0bqjBrsGPrfKcSQ3AcQTJJBhb0amBnINuTwVVMJrXy9=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/pw/AP1GczO36sy3p3VKksW3Q7_HSwfPjc9FfgXPIRDO6uIxsFDcEZfs2UsHiXGcYzxz_93plyt14BqQ5dqCwf36NtNizgknZHFRBMEI9rNSVy3IgMBVkOITBb41=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/pw/AP1GczPmKVIZ-nU8MFtbwRatEpZ9d6AnbGTiykz6aN9foeMc8qVRC1rm9fx601wXhQyzPBzv_qfp6Te5SxXiYvgzecXBzutZJ-ml8gEmRSendNt54qxlqJH3=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/pw/AP1GczOBinChh5Pq8ZjsxJWY1UBe_JvMo7k7lRzBQMUTaavfx1p2n3m2vGYfy3AwSMFpH-TVvHljgul7VhoKBV2XNl4RG47OtKQeI5T-Dhj4c9dF2pDHlE0s=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/pw/AP1GczPAsBvrxGQzMoqo0AXCqgGDjUnXQNVnbf8DuMeX5CJfeeVwVYHPZm92QXOncp8MLzNKYiBdW1ZrHi25fTtpVhUJqUXa816bkhfiRwCg6KIaX7JFNNRK=w1920-h1080"></object>
 </div>
 
