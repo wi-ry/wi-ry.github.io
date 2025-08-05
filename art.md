@@ -11,7 +11,7 @@ permalink: /art/
 <script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
 <div class="pa-carousel-widget" style="width:100%; height:480px; display:none;"
   data-link="https://photos.app.goo.gl/vmaRf6Jk6M4Vx7hG9"
-  data-title="Watercolor Art · May 18 – Jun 4 📸"
+  data-title="Watercolor Art 📸"
   data-description="Shared album · Tap to view!">
   <object data="https://lh3.googleusercontent.com/pw/AP1GczP5HdrSHdd41CXNx9TH-0DxwK6rfj5gvA3Ebe1WSVmb3ChZG9xNZxKaWXfHn5N_QzTnjmA4cTrtCIz2w3M14pTN8t_LjnuzFQvZoGht9U-U26a59sgHEoGWqrwsZBvFHRouLQtcn83igy_-12FUgUin7Q=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/pw/AP1GczPmGMPGQ-lNGQcqXT-zwQMoem4ZtwpuzmklxjLrW5pOkAqddXtBxNLiwfPIKqaBpgGHyjiq9cocde6jcTZwrkEHlyORDglB4DMCiaGezm1CjpL61WJl=w1920-h1080"></object>
@@ -26,7 +26,7 @@ permalink: /art/
 <script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
 <div class="pa-carousel-widget" style="width:100%; height:480px; display:none;"
   data-link="https://photos.app.goo.gl/GPn8AEVjBcYUBGWx9"
-  data-title="Pokemon Art · Monday, Jun 2 📸"
+  data-title="Pokemon Art 📸"
   data-description="Shared album · Tap to view!">
   <object data="https://lh3.googleusercontent.com/pw/AP1GczPZh6ZlbXxrRYz4poM8zjyOnBtJ69Rpul4Fi0M009XgJLQRt4NjSLQ1-VPw27-3xoLIdOfIz0bqjBrsGPrfKcSQ3AcQTJJBhb0amBnINuTwVVMJrXy9=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/pw/AP1GczO36sy3p3VKksW3Q7_HSwfPjc9FfgXPIRDO6uIxsFDcEZfs2UsHiXGcYzxz_93plyt14BqQ5dqCwf36NtNizgknZHFRBMEI9rNSVy3IgMBVkOITBb41=w1920-h1080"></object>
