@@ -25,11 +25,11 @@ permalink: /art/
   <object data="https://lh3.googleusercontent.com/pw/AP1GczMX4-WSIvBubKS0iS64iA2FXBKb73fYVx9t1Fr9wfhWwqZQZIo7DR9PIzW1BEpU0TpqqVwey-oZKb5z3pEpFdokE5LfOeMIaHakqoun7-dknFGt7GFh=w1920-h1080"></object>
 </div>
 
-<h3>Other</h3>
+<h3>Pokemon</h3>
 <script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
 <div class="pa-carousel-widget" style="width:100%; height:480px; display:none;"
   data-link="https://photos.app.goo.gl/GPn8AEVjBcYUBGWx9"
-  data-title="Other Art · Monday, Jun 2 📸"
+  data-title="Pokemon Art · Monday, Jun 2 📸"
   data-description="Shared album · Tap to view!">
   <object data="https://lh3.googleusercontent.com/pw/AP1GczPAsBvrxGQzMoqo0AXCqgGDjUnXQNVnbf8DuMeX5CJfeeVwVYHPZm92QXOncp8MLzNKYiBdW1ZrHi25fTtpVhUJqUXa816bkhfiRwCg6KIaX7JFNNRK=w1920-h1080"></object>
 </div>
