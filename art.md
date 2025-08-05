@@ -13,6 +13,7 @@ permalink: /art/
   data-link="https://photos.app.goo.gl/vmaRf6Jk6M4Vx7hG9"
   data-title="Watercolor Art · May 18 – Jun 4 📸"
   data-description="Shared album · Tap to view!">
+  <object data="https://lh3.googleusercontent.com/pw/AP1GczP5HdrSHdd41CXNx9TH-0DxwK6rfj5gvA3Ebe1WSVmb3ChZG9xNZxKaWXfHn5N_QzTnjmA4cTrtCIz2w3M14pTN8t_LjnuzFQvZoGht9U-U26a59sgHEoGWqrwsZBvFHRouLQtcn83igy_-12FUgUin7Q=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/pw/AP1GczPmGMPGQ-lNGQcqXT-zwQMoem4ZtwpuzmklxjLrW5pOkAqddXtBxNLiwfPIKqaBpgGHyjiq9cocde6jcTZwrkEHlyORDglB4DMCiaGezm1CjpL61WJl=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/pw/AP1GczOXq4t66zhvw8jBOXwVS4jPxVQqJi_RA-pc6mkcBw1mlY3KdlkDOTEI9PxAsgX9aib_zDjUx_K8jIoctYbAxW7bpz21vVnaaGZ4jE1izBi_yCJIl2BZ=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/pw/AP1GczMXEeoSqq8UquevL3fRywFYuOXA3byI8YD5REtc-SYjSqdZMnJZwiD9zF44n74KhKR9UAnqdfOcBlXReOsrzBD-2ObTRnlt_iVZR9TZ2zBbzONLa_dN=w1920-h1080"></object>
