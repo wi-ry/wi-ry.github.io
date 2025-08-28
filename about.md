@@ -12,6 +12,6 @@ For the past couple of decades, Will has lived in The Lower Mainland of British 
 
 As a [photographer](/photos/), he’s been applauded by his mother, friends and cats. His photography is on display in both hemispheres, and perhaps some day they will reach even further.
 
-When he’s not working or drinking caffeine in some form, you can find him wishing he had/spent more of his time doing photography, burning his way through 10,000 steps a day, helping write books, volunteering within his community and complete a tech certification every now and then.
+When he’s not working or drinking caffeine in some form, you can find him wishing he had/spent more of his time doing photography, burning his way through 10,000 steps a day, helping write books, volunteering within his community or completing a tech certification every now and then.
 
 Causes which are close to his heart are the [Heart and Stroke Foundation of Canada](http://www.heartandstroke.ca), the [Canadian Mental Health Association](http://www.cmha.ca), and [Crohn’s and Colitis Canada](https://crohnsandcolitis.ca/).
